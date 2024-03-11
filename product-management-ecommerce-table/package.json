@@ -1,0 +1,19 @@
+{
+  "name": "product-management-ecommerce-table",
+  "version": "1.0.0",
+  "description": "Product-management-ecommerce for Resume",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Dimple Shah",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.0.1",
+    "express": "^4.18.3",
+    "pg": "^8.11.3"
+  }
+}
